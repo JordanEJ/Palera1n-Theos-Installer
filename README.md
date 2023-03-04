@@ -1,4 +1,4 @@
-> ## WARNING: This is a work in progress. It does not work at the moment.
+> ## WARNING: This is a work in progress. It worked for me but might not for you.
 
 # Palera1n-Theos-Installer
 The theos installer script slight rewritten to work with palera1n.
