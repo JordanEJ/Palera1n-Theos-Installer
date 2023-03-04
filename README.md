@@ -15,3 +15,4 @@ Instead of:
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/theos/theos/master/bin/install-theos)"
 ```
+> As I have removed the -y option when installing theos you may have to manualy type "y" multiple times to confirm you want to install certian packages.
